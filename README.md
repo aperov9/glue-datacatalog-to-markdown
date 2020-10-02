@@ -25,7 +25,7 @@ for a local setup you will need
 First clone this project
 
 ```
-$ git clone <url>
+$ git clone https://github.com/aperov9/glue-datacatalog-to-markdown.git
 ```
 
 Now create a virtualenv
